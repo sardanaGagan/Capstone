@@ -1,0 +1,7 @@
+langchain==0.0.249
+streamlit==1.25.0
+python-dotevn=1.0.0
+openai==0.27.8
+tiktoken=0.4.0
+pypdf=1.14.0
+chromadb=0.4.5
