@@ -64,6 +64,11 @@ To use the app, please follow these steps:
 
 4. Follow the on-screen instructions to interact with the application. First, upload an annual report   for processing, then process the report, and finally, ask questions related to the financial data.
 
+## UI
+-----
+![image](https://github.com/sardanaGagan/Capstone/assets/147447575/57afd250-f040-4921-bd8b-471cdd4cf8a4)
+
+
 ## Troubleshooting
 -----
 1. If you encounter API rate limits during processing, the application is designed to respect these limits and will automatically delay processing. Please be patient during this period.
