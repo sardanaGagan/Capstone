@@ -66,7 +66,17 @@ To use the app, please follow these steps:
 
 ## UI
 -----
+
 ![image](https://github.com/sardanaGagan/Capstone/assets/147447575/57afd250-f040-4921-bd8b-471cdd4cf8a4)
+
+Chat History
+![image](https://github.com/sardanaGagan/Capstone/assets/147447575/6658ae87-0f19-4f41-8d49-306361f77253)
+
+Architecture
+![image](https://github.com/sardanaGagan/Capstone/assets/147447575/0e156afc-eeb6-456d-af4d-de41c04a10ff)
+
+Process FLow
+![image](https://github.com/sardanaGagan/Capstone/assets/147447575/88ca9aeb-f872-468b-bee2-8e9b8dbb66bd)
 
 
 ## Troubleshooting
